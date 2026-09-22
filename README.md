@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 My name is Ornella Casta Mutabazi
 
-<!--
-**Ornella427/Ornella427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Programming Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Turning ideas into practical solutions through code, curiosity, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Based in **Ottawa, Canada**
+* 🎓 Studying **Computer Programming at Algonquin College**
+* 🌱 Exploring **software development, databases, and Linux**
+* 🛠️ Building skills through **hands-on projects and problem-solving**
+* ✉️ Contact me: **ornellamutabazi@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+Technologies I'm working with through coursework and projects:
+
+* **Languages:** Java, JavaScript, SQL, Bash
+* **Web Development:** Node.js, Express, Pug
+* **Databases:** MongoDB, Oracle
+* **Tools & Platforms:** Git, GitHub, Linux
+
+---
+
+## 📚 Project Spotlight
+
+**Book Catalogue** — A collaborative web application for organizing books, ratings, and reviews, built with Node.js, Express, MongoDB, and Pug.
+
+---
+
+## 🤝 Socials
+
+* **GitHub:** [Your GitHub profile URL
+* **LinkedIn:** www.linkedin.com/in/
+ornella-casta-mutabazi-a37a12269
+ 
