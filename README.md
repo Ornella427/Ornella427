@@ -33,5 +33,4 @@ Technologies I'm working with through coursework and projects:
 
 * **GitHub:** [Your GitHub profile URL
 * **LinkedIn:** www.linkedin.com/in/
-ornella-casta-mutabazi-a37a12269
- 
+
