@@ -31,6 +31,6 @@ Technologies I'm working with through coursework and projects:
 
 ## 🤝 Socials
 
-* **GitHub:** [Your GitHub profile URL
+* **GitHub:** https://github.com/Ornella427
 * **LinkedIn:** www.linkedin.com/in/
 
